@@ -1,0 +1,13 @@
+name = "Arc Nectar"
+author = "Sewdohe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bc31798a50c55d1691a577fa9bb2aff1092c009b559220945a18985f2bf7d086"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"

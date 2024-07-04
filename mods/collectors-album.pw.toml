@@ -1,0 +1,13 @@
+name = "Collector's Album"
+filename = "collectorsalbum-forge-1.20.1-1.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2500f6f13a8e5e86ec0715b82f36eaeafb37c398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5158427
+project-id = 659390
