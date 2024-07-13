@@ -100,6 +100,11 @@ hash = "4d7d45d515ea2a7f786672b8b0dd82d5f292b69237500b71216dffdc5655fcc6"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
 metafile = true
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "8cd77a97116580e66553c94d96c9f14ec7cf83261056e108d029092ab53086ab"
 metafile = true
 
 [[files]]
@@ -147,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "134caaf6adf6ad007d4c6449430062d5a152238828e9fb8271060587adbbf61f"
 metafile = true
 
 [[files]]
@@ -222,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
 metafile = true
 
 [[files]]
