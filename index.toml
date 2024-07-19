@@ -120,6 +120,11 @@ hash = "4d7d45d515ea2a7f786672b8b0dd82d5f292b69237500b71216dffdc5655fcc6"
 metafile = true
 
 [[files]]
+file = "mods/ender-io.pw.toml"
+hash = "141b636d66d1fdab0c08ed35eb64a9e5888d2c4841e4d560c37d194305fe197f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "e0607c5e42eb3e9e9f535e4a71392261f3a9ee4f6f84850d5490ff48f82f1ca8"
 metafile = true
 
 [[files]]
@@ -157,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "9899e9e582ecaf09d1d0c8c432b80f49cea1cd684d1c0d3321435d717536d553"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "3e009722a949ae7fccdbb1cc101fb43fda295022f4f56a3382c158c682597386"
 metafile = true
 
 [[files]]
@@ -287,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
+metafile = true
+
+[[files]]
+file = "mods/vibrative-voice.pw.toml"
+hash = "45940f6b99900cbf15ce9b7b014e9a980f83a7b4b708c402f3dcd97e6ebcbd93"
 metafile = true
 
 [[files]]
