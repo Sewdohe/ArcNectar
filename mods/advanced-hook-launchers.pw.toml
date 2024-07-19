@@ -1,0 +1,13 @@
+name = "Advanced Hook Launchers"
+filename = "AdHooks-1.20.1-10.1.1.0-build.0473.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0055c86b1f4df2d0e0c0b51c118614edadb1fff8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5353099
+project-id = 244849
