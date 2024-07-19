@@ -305,11 +305,6 @@ hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
 metafile = true
 
 [[files]]
-file = "mods/vibrative-voice.pw.toml"
-hash = "45940f6b99900cbf15ce9b7b014e9a980f83a7b4b708c402f3dcd97e6ebcbd93"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true
