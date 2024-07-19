@@ -30,6 +30,11 @@ hash = "38879e7ca4f106b0e77a65e8467f41037a8d72c3c5ca9de5bf74705d137f5126"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a96886fe12b0156b383437c664125ca8989e7c972728a37e2ac36b35dcf29bec"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "c8fc88380a68f5254e7f6cd84b30d83ecd6e621b50e116455800b0d799da144d"
 metafile = true
@@ -50,6 +55,11 @@ hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
@@ -65,6 +75,11 @@ hash = "3f21b413e33b9b32297227a5f4ecd00e3ecfa95e011b6e9569980cdf6bb5aefc"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "4ae0eca22eeeb6cbcd629b24e32c2617c9a73032b89fff188bef10b98ca791a5"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
@@ -77,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
 metafile = true
 
 [[files]]
@@ -105,6 +125,11 @@ hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
 metafile = true
@@ -127,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "212633e875f70f3990a8064079e116dae6b957363c2d67776cc56debb2e64c7b"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "9899e9e582ecaf09d1d0c8c432b80f49cea1cd684d1c0d3321435d717536d553"
 metafile = true
 
 [[files]]
@@ -200,6 +230,11 @@ hash = "825848d54cd918e3b4ad5c3f69084cc97f421ab380ae038fe4d4577770d313b6"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8be59d4bd5e7aada4edc43d17aabd1efd87a6837f89033e8f68193c4958fddc4"
+metafile = true
+
+[[files]]
 file = "mods/simple-weapons-for-better-combat.pw.toml"
 hash = "26f3edbcb1887d7b6b77988f5b5db87b3870cabcfae105b007fa607ca489a5cb"
 metafile = true
@@ -210,6 +245,11 @@ hash = "45eda6f15d39b56d64bf6796c1fde8c70db629cb9fc25abc4e39852151b7927d"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "3ffd38de3835a191215be1bdbcb3cfbce7353859ec541a2cb1529ba36d983471"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
 metafile = true
@@ -217,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
 metafile = true
 
 [[files]]
