@@ -95,11 +95,6 @@ hash = "3f21b413e33b9b32297227a5f4ecd00e3ecfa95e011b6e9569980cdf6bb5aefc"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
-metafile = true
-
-[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "4ae0eca22eeeb6cbcd629b24e32c2617c9a73032b89fff188bef10b98ca791a5"
 metafile = true
@@ -230,11 +225,6 @@ hash = "744bc3944f016f7481c017defb6f83a9deae5009e20c0f5f217443762356e32c"
 metafile = true
 
 [[files]]
-file = "mods/mcdw.pw.toml"
-hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "bce56a595682b811d74cc4e30a0104927723a4375135d255d3cdfa158b2a0669"
 metafile = true
@@ -322,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/simplehats.pw.toml"
 hash = "45eda6f15d39b56d64bf6796c1fde8c70db629cb9fc25abc4e39852151b7927d"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "caed6f828069854d7489d3ddfe13b1d8a5c9901908d5769a5e575e237c0c103f"
 metafile = true
 
 [[files]]
