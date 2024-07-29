@@ -1,0 +1,13 @@
+name = "MnA Arcane Additions"
+filename = "ArcaneAdditions-1.20.1-forge-1.9.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5b7317c4485c30989ada232c143e49fd4cb299a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5512240
+project-id = 576150

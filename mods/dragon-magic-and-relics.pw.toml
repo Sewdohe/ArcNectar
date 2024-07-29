@@ -1,0 +1,13 @@
+name = "Dragon Magic And Relics"
+filename = "dmnr-3.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "edfdec381600370a5605c032fb134565778e4d9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5400420
+project-id = 785039

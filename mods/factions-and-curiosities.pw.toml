@@ -1,0 +1,13 @@
+name = "Factions And Curiosities"
+filename = "fnc-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a994d9ed7ec0166f4f885f99a3f505f54c68794"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5160873
+project-id = 947536

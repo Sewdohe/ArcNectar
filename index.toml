@@ -20,6 +20,11 @@ hash = "c514f491ac1d393df5bcdbefef1d91a4e96c4e5cea74f78d1e8d9bf9e43dd966"
 metafile = true
 
 [[files]]
+file = "mods/anvil-never-too-expensive.pw.toml"
+hash = "d137b2347b2dabef524cdf20fe3d4c29f48f76bc586919d37095858f41f96e80"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -50,6 +55,11 @@ hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction-forge.pw.toml"
+hash = "87260d15b05d7cba793c9ddbebae06dc22e042fe747120db9b5b8f441d875524"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "939e093a5dcac4f5437fc267f8ce2c82ddffa13e0912298d4d3b7917a13d1dc6"
 metafile = true
@@ -57,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
@@ -80,6 +95,11 @@ hash = "3f21b413e33b9b32297227a5f4ecd00e3ecfa95e011b6e9569980cdf6bb5aefc"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "4ae0eca22eeeb6cbcd629b24e32c2617c9a73032b89fff188bef10b98ca791a5"
 metafile = true
@@ -87,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "c1fa8e6889d3dffd9708de9d59aeeaefec66ff013b0bc32de2e23ec9199c66e9"
 metafile = true
 
 [[files]]
@@ -110,6 +135,11 @@ hash = "850837acd5d51a7d3c0f4ffb2d6cf3634194d996179955ae0855f1c064355988"
 metafile = true
 
 [[files]]
+file = "mods/dragon-magic-and-relics.pw.toml"
+hash = "c6737da74cdc45405f4bec6ca29b2f3773b75229b7ef5454f01c655fe93379f6"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "c987b4f2713f3a6335dde6ded47de4d4cdbbcaa037d139c37e7e25f7f590fb31"
 metafile = true
@@ -130,6 +160,11 @@ hash = "141b636d66d1fdab0c08ed35eb64a9e5888d2c4841e4d560c37d194305fe197f"
 metafile = true
 
 [[files]]
+file = "mods/factions-and-curiosities.pw.toml"
+hash = "2bd8c01d45d86b600ba5069cacc555fffab6a1964b1781fae7a1a013dd48597d"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -145,13 +180,13 @@ hash = "7a210f5b020288a1bd32e22e3f6e53bd3e2a6e8d3221fdff6fd3d5a037f6d9d0"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "941bbc3b5a23b8392d88b534a7fa1973273c3daa6f8fb70bfe4d4645423a2159"
+file = "mods/geckolib.pw.toml"
+hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
 metafile = true
 
 [[files]]
@@ -190,6 +225,26 @@ hash = "90f9915bea7bf15b7076d55c2d25a35c280181f9d8d7f09eb0ae0261fbc18fea"
 metafile = true
 
 [[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "744bc3944f016f7481c017defb6f83a9deae5009e20c0f5f217443762356e32c"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.pw.toml"
+hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "bce56a595682b811d74cc4e30a0104927723a4375135d255d3cdfa158b2a0669"
+metafile = true
+
+[[files]]
+file = "mods/mna-arcane-additions.pw.toml"
+hash = "8e65b8f5732fcf146ee909634147423327fd5e231811fdc5371672ddbfd18cb8"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -202,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "a57155e174f160d0cb42c8e10eb648b05865d70a79496a4024111d2a506325ca"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
@@ -262,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/simplehats.pw.toml"
 hash = "45eda6f15d39b56d64bf6796c1fde8c70db629cb9fc25abc4e39852151b7927d"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "caed6f828069854d7489d3ddfe13b1d8a5c9901908d5769a5e575e237c0c103f"
 metafile = true
 
 [[files]]
